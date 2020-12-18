@@ -1,3 +1,1 @@
-# Codewars
-
-my solutions to some Codewars challenges (http://codewars.com), written in python
+Repo for coding challenge from various sources
